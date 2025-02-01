@@ -24,11 +24,12 @@ The **Expense Management System** is a full-stack application designed to help u
 
 Here are some screenshots of the application:
 
-1. **Expense Analytics**
+1. **Expense Management**
+   ![Expense Management](https://github.com/deepakcodes19/Expense-Management-System--Python/blob/main/Expense%20management.png)
+
+2. **Expense Analytics**
    ![Expense Analytics](https://github.com/deepakcodes19/Expense-Management-System--Python/blob/main/Expense%20Analytics.png)
 
-2. **Expense Management**
-   ![Expense Management](https://github.com/deepakcodes19/Expense-Management-System--Python/blob/main/Expense%20management.png)
 
 ## Prerequisites
 
