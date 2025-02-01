@@ -1,0 +1,44 @@
+2025-01-30 17:22:18,603 db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-01-30 17:22:33,012 db_helper - INFO - Deleting expenses for date: 2024-08-28
+2025-01-30 17:22:33,051 db_helper - INFO - Inserting expense - Date: 2024-08-28, Amount: 25.0, Category: Shopping, Notes: Bought a mercedez car
+2025-01-30 18:20:35,664 db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-01-30 18:23:55,696 db_helper - INFO - Fetching expenses for date: 2024-08-09
+2025-01-30 18:24:10,602 db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-01-30 18:24:19,827 db_helper - INFO - Fetching expenses for date: 2024-08-02
+2025-01-30 18:24:26,203 db_helper - INFO - Fetching expenses for date: 2024-08-03
+2025-01-30 18:35:45,097 db_helper - INFO - Fetching expenses for date: 2024-08-03
+2025-01-30 18:43:19,002 db_helper - INFO - Fetching expenses for date: 2024-08-03
+2025-01-30 18:49:17,652 db_helper - INFO - Fetching expenses for date: 2024-08-03
+2025-01-30 18:53:37,882 db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-01-30 18:54:16,400 db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-01-30 19:02:55,041 db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-01-30 19:05:27,224 db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-01-30 19:08:07,837 db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-01-30 19:09:17,104 db_helper - INFO - Fetching expenses for date: 2024-08-02
+2025-01-30 19:09:24,245 db_helper - INFO - Fetching expenses for date: 2024-08-03
+2025-01-30 19:20:26,335 db_helper - INFO - Fetching expenses for date: 2024-08-03
+2025-01-30 19:27:50,929 db_helper - INFO - Fetching expenses for date: 2024-08-03
+2025-01-30 19:27:56,977 db_helper - INFO - Fetching expenses for date: 2024-08-07
+2025-01-30 19:28:55,820 db_helper - INFO - Fetching expenses for date: 2024-08-07
+2025-01-30 19:31:40,098 db_helper - INFO - Fetching expenses for date: 2024-08-07
+2025-01-30 19:31:42,172 db_helper - INFO - Deleting expenses for date: 2024-08-07
+2025-01-30 19:31:42,184 db_helper - INFO - Inserting expense - Date: 2024-08-07, Amount: 20.0, Category: Shopping, Notes: Bought a Pen
+2025-01-30 19:31:42,196 db_helper - INFO - Inserting expense - Date: 2024-08-07, Amount: 1000.0, Category: Utilities, Notes: paid a electricity bill
+2025-01-30 19:31:42,208 db_helper - INFO - Inserting expense - Date: 2024-08-07, Amount: 500.0, Category: Entertainment, Notes: watched Stree 2 movie
+2025-01-30 19:31:42,220 db_helper - INFO - Inserting expense - Date: 2024-08-07, Amount: 40.0, Category: Food, Notes: ate samosa
+2025-01-30 19:34:09,724 db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-01-30 19:34:16,671 db_helper - INFO - Fetching expenses for date: 2024-08-07
+2025-01-31 16:52:00,379 db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-01-31 16:52:13,247 db_helper - INFO - Fetching expenses for date: 2024-08-02
+2025-01-31 17:21:06,565 db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-01-31 17:25:00,140 db_helper - INFO - Deleting expenses for date: 2024-08-28
+2025-01-31 17:25:00,172 db_helper - INFO - Inserting expense - Date: 2024-08-28, Amount: 25.0, Category: Shopping, Notes: Bought a mercedez car
+2025-01-31 17:38:47,919 db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-01-31 18:00:49,404 db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-01-31 18:04:30,878 db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-01-31 18:04:35,697 db_helper - INFO - Deleting expenses for date: 2024-08-28
+2025-01-31 18:04:35,737 db_helper - INFO - Inserting expense - Date: 2024-08-28, Amount: 25.0, Category: Shopping, Notes: Bought a mercedez car
+2025-01-31 18:23:37,824 db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-01-31 18:23:39,415 db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-01-31 18:38:19,595 db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-01-31 18:58:57,039 db_helper - INFO - Fetching expenses for date: 2024-08-01

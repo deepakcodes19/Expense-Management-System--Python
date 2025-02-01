@@ -1,0 +1,4 @@
+2025-01-30 16:42:34,164 db_helper - INFO fetch_expenses_for_date called with 2024-08-01
+2025-01-30 16:42:34,457 db_helper - INFO fetch_expenses_summary called with start: 2024-08-01, end: 2024-08-05
+2025-01-30 16:44:03,767 db_helper - INFO fetch_expenses_for_date called with 2024-09-30
+2025-01-30 16:44:03,798 db_helper - INFO fetch_expenses_summary called with start: 2024-08-01, end: 2024-08-05
