@@ -1,6 +1,5 @@
 # Expense Management System
 
-<<<<<<< HEAD
 This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
 
 ## Project Structure
@@ -247,4 +246,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or feedback, please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/deepakyadav19/).
->>>>>>> 980c0f60db01aa8b544a5bba8723b678f06358c0
